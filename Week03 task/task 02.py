@@ -1,2 +1,2 @@
 s = "\tPython, Monty \n"
-print(s.strp())
+print(s.strp(), "," )
